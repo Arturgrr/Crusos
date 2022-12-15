@@ -1,2 +1,2 @@
 # Crusos
-Aqui estão os cursos que eu fiz durante a minha carreira de estudos na programação
+Aqui estão todos os certificados que eu conquistei durante a minha carreira de programação
